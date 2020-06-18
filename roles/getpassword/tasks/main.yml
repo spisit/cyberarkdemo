@@ -1,6 +1,6 @@
 ---
 - name: Credential retrieval
-  cyberark_credentail:
+  cyberark_credential:
     api_base_url: "https://10.77.66.135"
     app_id: "AIMWebService"
     validate_certs: no
