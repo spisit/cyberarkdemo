@@ -2,5 +2,5 @@
 collections:
 # CyberArk ansible-galaxy collection install cyberark.pas
 - name: cyberark.pas
-  version: 1.5
+  version: 1.0.5
   source: https://galaxy.ansible.com
