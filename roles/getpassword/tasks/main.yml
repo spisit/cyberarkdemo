@@ -1,0 +1,12 @@
+---
+- name: Credential retrieval
+  cyberark_credentail:
+    api_base_url: "https://10.77.66.135"
+    app_id: "AIMWebService"
+    validate_certs: no
+    query: "SafeSafe=Window;Object=Operating System-WinServerLocal-10.77.66.142-test"
+  register: result
+
+- name: debug
+  debug:
+    msg: "{{ result }}"
