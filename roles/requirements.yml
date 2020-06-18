@@ -1,4 +1,4 @@
 ---
 collections:
 # CyberArk ansible-galaxy collection install cyberark.pas
-cyberark.pas
+- cyberark.pas
