@@ -7,4 +7,4 @@ Installation `ansible-galaxy collection install cyberark.pas`
 
 Requirements
 * CyberArk Privileged Account Security Web Services SDK
-* CyberArk AAM Central Credential Provider (**Only required for cyberark_credential)
+* CyberArk AAM Central Credential Provider (**Only required for cyberark_credential**)
